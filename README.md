@@ -14,3 +14,7 @@ Sentiment Analysis is the process of determining whether a piece of writing is p
 This projects uses different datasets that contain some reviews with the respective sentiment or label ( 1 - Positive, 0 - Negative ), such as Amazon Reviews, IMDB Reviews and Yelp Reviews. The tested model was a Linear Support Vector Machine, getting an 77.6 % Accuracy. 
 
 ## Spam Text Classification
+
+The use of mobile phones has skyrocketed in the last decade leading to a new area for junk promotions from disreptable marketers. People innocently give out their mobile phone numbers while utilizing day to day services and are then flooded with spam promotional messages.
+
+In this project I create a classifier or SMS messages using different Machine Learning models, understand why this is an important area in the Natural Language Processing
